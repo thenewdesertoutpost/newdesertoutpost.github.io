@@ -5,4 +5,6 @@
 layout: default
 ---
 
-Hello world
+New Desert Outpost is an explorer's lounge and outpost for adventurers at Burning Man. Join us for afternoon tea or evening brandy and share your favorite adventures or get inspiration for new ones.
+
+Stay tuned for more information and a list of our events.
