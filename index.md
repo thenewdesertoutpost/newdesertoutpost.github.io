@@ -47,7 +47,7 @@ This blessed individual will guide you through a routine comfortable for both be
 
 ![Front of camp](./assets/img/camp_front.png)
 
-Inside the tent will be a comfortable old-world inspired lounge, filled with eclectic items, fun trinkets and soft lighting. It's the perfect place to find refuge from the intense sound and lights in the evening, while you figure out where your next adventure will take you.
+Inside the tent will be a comfortable old-world inspired lounge and bar, filled with eclectic items, fun trinkets and soft lighting. It's the perfect place to find refuge from the intense sound and lights in the evening, while you figure out where your next adventure will take you.
 
 # Building & Crafting
 
