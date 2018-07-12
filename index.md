@@ -17,10 +17,9 @@ Through our adventure bar and novel events we host, our aim to increase randomne
 
 Challenges will occur every day for each of the events with the Grand Championship being held on Friday afternoon. Events will be as follows:
 
- * **Tea-lay** – *A test of speed and agility.* - Teams of four chaps run four laps of the block, one each, while passing between them a full cup of tea. The fastest time to complete four laps without spilling more than 1/3 of the cup of tea wins.
+ * **Tea-lay** – *A test of speed and agility.* - Teams of four chaps run four laps, one each, while passing between them a full cup of tea. The fastest time to complete four laps without spilling more than 1/3 of the cup of tea wins.
  * **Umbrella Jousting** – *A test of strength.* - Two chaps on bicycles attempt to knock the hats off each others’ heads using only a single umbrella as a weapon, and a briefcase as a shield.
  * **Not Playing Tennis** – *A test of procrastination.* - Using the equipment provided, chaps endeavour to avoid playing a game of tennis by any means available; points are awarded for both difficulty and execution.
- * **Bar Backing** – A fleet of bartenders mix a perfect cocktail at the bar. When the bell is rung, contestants must make a three-legged dash to the bar. If they don’t make it in the time limit, the bartender gets to drink their drink.
  * **Hat tower** – *A test of coordination.* Individual chaps balance as many hats on their heads while riding their bicycle from one (corner of camp) to the other. The highest number of hats that complete the journey wins.
 
 All challenges will be followed by a genteel teatime.
