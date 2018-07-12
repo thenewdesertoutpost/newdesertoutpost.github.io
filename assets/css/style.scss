@@ -33,6 +33,14 @@ header {
   }
 }
 
+h1 {
+  border-bottom: 1px solid #333;
+}
+
+h2 + h3 {
+  margin-top: -15px;
+}
+
 footer {
   bottom: 0;
 }

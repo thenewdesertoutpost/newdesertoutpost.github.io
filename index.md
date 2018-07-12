@@ -12,7 +12,8 @@ Through our adventure bar and novel events we host, our aim to increase randomne
 
 # Events
 
-## Chap Challenges & Championship - Everyday, 3pm
+## Chap Challenges & Championship
+### Everyday, 3pm
 
 Challenges will occur every day for each of the events with the Grand Championship being held on Friday afternoon. Events will be as follows:
 
@@ -24,21 +25,25 @@ Challenges will occur every day for each of the events with the Grand Championsh
 
 All challenges will be followed by a genteel teatime.
 
-## Brandy & Tea Adventure Bar Happy Hour - Tuesday, Thursday 2pm-5pm
+## Happy Hour - Brandy & Tea Adventure Bar
+### Tuesday, Thursday 2pm-5pm
 
 The adventure bartenders will be well-versed in the events and happenings from across the playa Over a cup of brandy or tea, our bartenders will engage with the attendees and listen to their stories. After a time, the bartender will gauge their personality and predilections and develop a bespoke adventure plan. We will tell them when and where to show up, but not what they're doing, to preserve the immediacy of the experience.
 
-## Dessert Bar - Monday 11am-2pm
+## Dessert Bar
+### Monday 11am-2pm
 
 What speaks to the hedonist and the grammarian in all of us? That's right. New Dessert at the New Desert Outpost! Come by our camp for fresh baked Desserts from our New Desert Dessert oven and satisfy your craving for both puns and cookies.
 
-## Pockets - Wednesday, 12pm-2pm
+## Pockets
+### Wednesday 12pm-2pm
 
 In the spirit of adventuring, we want to help our fellow Burners adapt their clothing to add utility. This opens up realms of creativity that some might not have anticipated - you can add pockets to clothes you love but that are impractical (especially women’s clothing!), add customized pockets for your favorite everyday objects, make decorative pockets that express your personal flare, or utilitarian ones that help keep your hands free.
 We'll provide sewing needles, thread, fabric to make pockets from, and our expertise to help add patch pockets, bellows pockets, and side-seam pockets to whatever garments we can.
 
 
-## Droga - Thursday at 5pm
+## Droga
+### Thursday at 5pm
 
 A person who knows something about yoga, but more about drinking. A person who can channel the most secret cocktail Chakra and bring peace and tequila to your parched and tired soul. This is the guru with whom you will learn, at Droga.
 This blessed individual will guide you through a routine comfortable for both beginners and the most enlightened yogi, all the while offering what can only be described as truly transcendent plastic handle liquor. You may learn, but you will definitely drink, and you will wobble from our tent at peace with your decisions.
@@ -51,6 +56,14 @@ Inside the tent will be a comfortable old-world inspired lounge and bar, filled 
 
 # Building & Crafting
 
+## Sign
+
+When you see this, you know you're here.
+
+![Stencils & Spray Paint](./assets/img/sign1.jpg)
+![Watching paint dry](./assets/img/sign2.jpg)
+![Done](./assets/img/sign3.jpg)
+
 ## Beryl
 
 Our lovely, old-timey, burn barrel.
@@ -59,7 +72,7 @@ Our lovely, old-timey, burn barrel.
 ![Beryl cutting](./assets/img/beryl2.jpg)
 ![Beryl burning](./assets/img/beryl3.jpg)
 
-## Building electric torches
+## Electric torches
 
 These rugged torches flicker as if they are really burning and provide a wild and inviting entrance to our camp.
 
