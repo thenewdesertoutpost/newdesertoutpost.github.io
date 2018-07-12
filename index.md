@@ -22,8 +22,6 @@ Challenges will occur every day for each of the events with the Grand Championsh
  * **Not Playing Tennis** – *A test of procrastination.* - Using the equipment provided, chaps endeavour to avoid playing a game of tennis by any means available; points are awarded for both difficulty and execution.
  * **Hat tower** – *A test of coordination.* Individual chaps balance as many hats on their heads while riding their bicycle from one (corner of camp) to the other. The highest number of hats that complete the journey wins.
 
-All challenges will be followed by a genteel teatime.
-
 ## Happy Hour - Brandy & Tea Adventure Bar
 ### Tuesday, Thursday 2pm-5pm
 
