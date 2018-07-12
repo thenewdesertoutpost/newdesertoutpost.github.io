@@ -17,11 +17,11 @@ Through our adventure bar and novel events we host, our aim to increase randomne
 
 Challenges will occur every day for each of the events with the Grand Championship being held on Friday afternoon. Events will be as follows:
 
- * **Tea-lay** – A game inspired by the relay. Contestants will run around a course, transferring a cup of tea from one contestant to the next. The amount of tea remaining in each team’s cup will decide the winner.
- * **Umbrella Jousting** – Mount your bicycles and engage in noble battle, wielding umbrellas instead of jousts, with owler hats and briefcases in place of traditional armor.
- * **Not Tennis** – On a fully kitted court, contestants will attempt to outdo each other in NOT playing tennis as well as they know how. Points will be awarded for creativity in not playing.
+ * **Tea-lay** – *A test of speed and agility.* - Teams of four chaps run four laps of the block, one each, while passing between them a full cup of tea. The fastest time to complete four laps without spilling more than 1/3 of the cup of tea wins.
+ * **Umbrella Jousting** – *A test of strength.* - Two chaps on bicycles attempt to knock the hats off each others’ heads using only a single umbrella as a weapon, and a briefcase as a shield.
+ * **Not Playing Tennis** – *A test of procrastination.* - Using the equipment provided, chaps endeavour to avoid playing a game of tennis by any means available; points are awarded for both difficulty and execution.
  * **Bar Backing** – A fleet of bartenders mix a perfect cocktail at the bar. When the bell is rung, contestants must make a three-legged dash to the bar. If they don’t make it in the time limit, the bartender gets to drink their drink.
- * **Most hats worn while riding a bike** – We will attempt to set a world record for most hats worn while riding a bicycle. The current world record is 28 hats.
+ * **Hat tower** – *A test of coordination.* Individual chaps balance as many hats on their heads while riding their bicycle from one (corner of camp) to the other. The highest number of hats that complete the journey wins.
 
 All challenges will be followed by a genteel teatime.
 

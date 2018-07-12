@@ -7,11 +7,12 @@ $bg-color: #ede5d9;
 
 body {
   background-color: $bg-color;
+  -webkit-overflow-scrolling: touch;
 }
 
 .wrapper {
   width: 900px;
-  margin:0 auto;
+  margin: 0 auto;
 }
 
 header {
@@ -27,7 +28,7 @@ header {
     text-transform: uppercase;
     background: $bg-color;
 
-    a {
+    a, a:link, a:hover, a:visited {
       color: #333;
     }
   }
@@ -46,11 +47,46 @@ footer {
 }
 
 section {
-  width: 600px;
+  min-width: 400px;
+  width: auto;
+  max-width: 600px;
 }
 
 @media print, screen and (max-width: 960px) {
+  div.wrapper {
+    width: 100%;
+  }
   header {
-    padding: 0 170px;
+    width:30%;
+    float:left;
+    position: fixed;
+    padding: 0;
+  }
+  section {
+    float:right;
+    width: 60%;
+    min-width: 300px;
+  }
+  footer {
+    float: left;
+    position: fixed;
+    width: 30%;
+  }
+}
+@media print, screen and (max-width: 600px) {
+  div.wrapper {
+    width:auto;
+    margin:0;
+  }
+  header, section, footer {
+    float:none;
+    position:static;
+    width:auto;
+  }
+  header {
+    padding: 50px 0 0;
+  }
+  section {
+    min-width: 50px
   }
 }
