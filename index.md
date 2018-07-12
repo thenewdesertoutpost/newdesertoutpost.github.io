@@ -18,13 +18,13 @@ Challenges will occur every day for each of the events with the Grand Championsh
 
  * **Tea-lay** – A game inspired by the relay. Contestants will run around a course, transferring a cup of tea from one contestant to the next. The amount of tea remaining in each team’s cup will decide the winner.
  * **Umbrella Jousting** – Mount your bicycles and engage in noble battle, wielding umbrellas instead of jousts, with owler hats and briefcases in place of traditional armor.
- * *Not Tennis* – On a fully kitted court, contestants will attempt to outdo each other in NOT playing tennis as well as they know how. Points will be awarded for creativity in not playing.
- * *Bar Backing* – A fleet of bartenders mix a perfect cocktail at the bar. When the bell is rung, contestants must make a three-legged dash to the bar. If they don’t make it in the time limit, the bartender gets to drink their drink.
- * *Most hats worn while riding a bike* – We will attempt to set a world record for most hats worn while riding a bicycle. The current world record is 28 hats.
+ * **Not Tennis** – On a fully kitted court, contestants will attempt to outdo each other in NOT playing tennis as well as they know how. Points will be awarded for creativity in not playing.
+ * **Bar Backing** – A fleet of bartenders mix a perfect cocktail at the bar. When the bell is rung, contestants must make a three-legged dash to the bar. If they don’t make it in the time limit, the bartender gets to drink their drink.
+ * **Most hats worn while riding a bike** – We will attempt to set a world record for most hats worn while riding a bicycle. The current world record is 28 hats.
 
 All challenges will be followed by a genteel teatime.
 
-## Adventure Bar/Storytime - Tuesday, Thursday 2pm-5pm
+## Brandy & Tea Adventure Bar Happy Hour - Tuesday, Thursday 2pm-5pm
 
 The adventure bartenders will be well-versed in the events and happenings from across the playa Over a cup of brandy or tea, our bartenders will engage with the attendees and listen to their stories. After a time, the bartender will gauge their personality and predilections and develop a bespoke adventure plan. We will tell them when and where to show up, but not what they're doing, to preserve the immediacy of the experience.
 
