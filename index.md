@@ -4,13 +4,17 @@ layout: default
 
 # About us
 
-Burning Man 2018: 4:15 and Iron Giant
-
 We're a group of seasoned Burning Man explorers who are dedicated to inspiring wanderers -- both newly embarking on explorations and those jaded by years of experience -- to discover parts of our fair city which are sometimes overlooked.
 
 Our camp is styled as an old-world explorer encampment, filled with eclectic trickets, comfortable places to lounge and soft lights and sounds in the evenings. It's the perfect place to sip on some tea or brandy and figure out where your next adventure will take you.
 
 Through our adventure bar and novel events we host, our aim to increase randomness and spontaneity into how people experience Burning Man.
+
+# Find Us
+
+Burning Man 2018: 4:15 and Iron Giant
+
+Facebook Page: https://www.facebook.com/New-Desert-Outpost-239932759997292/
 
 # Events
 
