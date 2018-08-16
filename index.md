@@ -14,7 +14,7 @@ Through our adventure bar and novel events we host, our aim to increase randomne
 
 Burning Man 2018: 4:15 and Iron Giant
 
-Facebook Page: https://www.facebook.com/New-Desert-Outpost-239932759997292/
+Facebook Page: [https://www.facebook.com/New-Desert-Outpost-239932759997292/](https://www.facebook.com/New-Desert-Outpost-239932759997292/)
 
 # Events
 
@@ -33,21 +33,21 @@ This is all leading up to the championship on Friday!
 ## Afternoon Tea
 ### Tuesday 2pm
 
-https://www.facebook.com/events/384735268718128/
+[https://www.facebook.com/events/384735268718128/](https://www.facebook.com/events/384735268718128/)
 
 Right, oh, good fancy person! Come sip and share the same splendiforous sweetness that soothes the serene. New Desert Outpost will be serving (and maybe spilling) teas from the Spanish seas to the Caribbean keys with soberings, yet smashing stories. Bring your liquid containers!
 
 ## Happy Hour - Brandy & Adventure Bar
 ### Thursday 2pm
 
-https://www.facebook.com/events/199755594043192/
+[https://www.facebook.com/events/199755594043192/](https://www.facebook.com/events/199755594043192/)
 
 The adventure bartenders will be well-versed in the events and happenings from across the playa Over a cup of brandy or tea, our bartenders will engage with the attendees and listen to their stories. After a time, the bartender will gauge their personality and predilections and develop a bespoke adventure plan. We will tell them when and where to show up, but not what they're doing, to preserve the immediacy of the experience.
 
 ## Dessert Bar
 ### Monday 11am
 
-https://www.facebook.com/events/225444528089903/
+[https://www.facebook.com/events/225444528089903/](https://www.facebook.com/events/225444528089903/)
 
 What speaks to the hedonist and the grammarian in all of us? That's right. New Dessert at the New Desert Outpost! Come by our camp for fresh baked Desserts from our New Desert Dessert oven and satisfy your craving for both puns and cookies.
 
@@ -61,7 +61,7 @@ We'll provide sewing needles, thread, fabric to make pockets from, and our exper
 ## Chap Championship
 ## Friday at 3pm
 
-https://www.facebook.com/events/253871225445226/
+[https://www.facebook.com/events/253871225445226/](https://www.facebook.com/events/253871225445226/)
 
 The ultimate throw down of chappitude, the Chap Championships!
 
@@ -70,7 +70,7 @@ Are you refined but idle? Are you an expert hat wearer? Does your swagger requir
 ## Droga
 ### Saturday at 1pm
 
-https://www.facebook.com/events/212222592958947/
+[https://www.facebook.com/events/212222592958947/](https://www.facebook.com/events/212222592958947/)
 
 A person who knows something about yoga, but more about drinking. A person who can channel the most secret cocktail Chakra and bring peace and tequila to your parched and tired soul. This is the guru with whom you will learn, at Droga.
 This blessed individual will guide you through a routine comfortable for both beginners and the most enlightened yogi, all the while offering what can only be described as truly transcendent plastic handle liquor. You may learn, but you will definitely drink, and you will wobble from our tent at peace with your decisions.
