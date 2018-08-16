@@ -4,6 +4,8 @@ layout: default
 
 # About us
 
+Burning Man 2018: 4:15 and Iron Giant
+
 We're a group of seasoned Burning Man explorers who are dedicated to inspiring wanderers -- both newly embarking on explorations and those jaded by years of experience -- to discover parts of our fair city which are sometimes overlooked.
 
 Our camp is styled as an old-world explorer encampment, filled with eclectic trickets, comfortable places to lounge and soft lights and sounds in the evenings. It's the perfect place to sip on some tea or brandy and figure out where your next adventure will take you.
