@@ -14,7 +14,7 @@ Through our adventure bar and novel events we host, our aim to increase randomne
 
 Burning Man 2018: 4:15 and Iron Giant
 
-Facebook Page: [https://www.facebook.com/New-Desert-Outpost-239932759997292/](https://www.facebook.com/New-Desert-Outpost-239932759997292/)
+Facebook Page: [https://www.facebook.com/newdesertoutpost/](https://www.facebook.com/newdesertoutpost/)
 
 # Events
 
