@@ -40,7 +40,7 @@ It's important that we create a community, not just a camp, an all campers play 
 * **Shower:** For when you feel like being clean for, like, 5 min. Bring your own camping solar shower bag and conserve water when you shower. Please be warned, the shower stall is cursed--inevitably within an hour of someone showering, a dust storm kicks up.
 * **Power:** The camp has a gas powered generator that will be running in the evening for camp lighting. We’ll have an area to plug in anything that needs to be charged, but please be courteous and remove your stuff when it’s done charging so everybody can have at it. The generator is not guaranteed for personal use swamp coolers,AC units, hitachi personal massager, etc. If you want to use it for high-power personal items, please consult the power team lead first.
 
-# Other Things to Know
+# At and Around the Camp
 * **Transportation to the playa:** Don’t have a vehicle pass to the burn? No biggie. Use the Burner Express.
 * **Camp Events:** The camp will be having a series of events during the week. If you’re not working the event, you don’t have to be there, but we’d love for you to join the fun. If you are working the event, please remember to always check ID.
 * **Trash / Can Recycling / Compost / Burnables:** We’ll have cans in the camp for each of these. Please compress anything you put into these as much as possible, . Recyclables will be taken to the recycling camp, and compostable/burnable things will be put in the burn barrel. Anybody caught throwing non-burnable stuff in the burn barrel will be obliged to sit on it while it is lit and while they recite the 10 Principles from memory. You have been warned.
@@ -50,3 +50,29 @@ It's important that we create a community, not just a camp, an all campers play 
   * Do a final thorough moop sweep of your tent area
 * **Ice, Ice, Baby:** If you expect to want ice for your cooler or beverages, etc., bring cash. It's $4 per bag, which you can get crushed ice or cubed ice. Cubed lasts longer, crushed is more convenient. Pro tip: bring large plastic freezer bags to keep your ice in and then when it melts you end up with ice cold clean drinking water. Cheers! . Ice runs will be incorporated into camp work shifts
 * **Food:** Lunch is a fend-for-yourselves kind of deal (don’t worry, there are lots of places to find food on your adventures during the day). Snacks are also BYO, however we ask that everyone bring beverage and snacks to share with the camp! Bring anything you might desire, from cheese balls to celery and peanut butter to shitty beer to fine champagne to whatever. Salty snacks are amazing on playa.
+
+# Friendly Mom Reminders
+
+* **Take care of yourselves:** Stay hydrated, cover up with sunscreen or fabric, get enough food, stay hydrated, try to sleep sometimes.
+* **Take care of others:** Burning man is a lovely place with lovely people but a) there are scuzzy people out there and b) sometimes people forget to take care of themselves. If you see someone who looks poorly, consider finding a Ranger to get them help. If you see someone who is looks poorly due to the bad behavior of someone else, be a champ and either step in, stay around, or find a Ranger.
+* **Take care of the camp:** We're super excited to camp with you awesome people. Please help us keep the camp running smoothly:
+  * Show up on time for your work shifts and offer to swap if you mess up.
+  * Help keep the common areas tidy--public areas, private areas, kitchen space.
+  * Be friendly and awesome with other campers and people.
+* **Transport:** If you are driving, be sure to enter burning man with sufficient gas in your vehicle. We recommend [Love’s gas station](https://www.google.com/maps/place/Love's+Travel+Stop/@40.213232,-120.261851,8z/data=!4m15!1m9!2m8!1slove's+gas+station!3m6!1slove's+gas+station!2sGerlach,+NV+89412!3s0x809fb25d9546944f:0xd0558e212d1d9022!4m2!1d-119.3567677!2d40.6516223!3m4!1s0x0:0x583c8b2cc7d33907!8m2!3d39.6179208!4d-119.2665482) right before the turnoff into Gerlach. Use this one and not any other ones in the area because those ones have bad reputations for credit card fraud.
+
+
+#Legal Stuff
+Burning man is a beautiful hippy haven of peace, love and sting operations. Yes, there are cops literally everywhere at Burning Man and you will not know they are there until it is too late. They have been burning for longer than you have, their camps are better, their costumes are more elaborate and you will absolutely be fined out the ass if they see you do or mention anything illegal. Beyond that, here are some friendly reminders regarding laws, law enforcement and Burning Man.
+
+* **Car searches:** Coming into burning man is the most common time to get stopped and searched. They’ll pull you over and if you consent they will totally empty your car on playa. To avoid this:
+  * Don’t give them a reason to pull you over: Stay under the speed limit, make sure your license plate is not being blocked by your bike rack and is properly lit up.
+  * If you are pulled over and they ask to search your car, politely decline (“I do not consent to a search.”, ”Am I being detained or am I free to go”). Do not under any circumstances consent to have your car searched.
+  * [Know your rights and what to say.](https://www.aclunc.org/our-work/know-your-rights/your-rights-and-police)
+* **Alcohol:** Anybody serving alcohol in any capacity to any non-camp member must see proof of legal drinking age for any people they are serving -- yes, even if they’re cute, yes, even if they’re like 80. ***Really fucking serious about this***. If you’re of legal drinking age, you can drink all over the damn place, but don’t be an asshole, and remember to bring some form of ID with you on your adventures--a drivers lic or a copy of it taped to your cup usually works well.
+* **Substances:**
+  * Pot is legal in California! Pot is legal in Nevada! Pot is **not legal** federally, and Burning Man is on federal land. Do not consume or share pot in plain sight outside of the camp
+  * Do not under any circumstances solicit, offer, or make reference to personal consumption of any illegal substances to people you do not personally know. ***So. Damn. Serious***.
+* Additional Resources
+  * Burning Man’s recommendations on how to relate to law enforcement.
+  * Seriously watch this: https://www.youtube.com/watch?v=d-7o9xYp7eE
