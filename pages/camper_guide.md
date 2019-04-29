@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Camping with us
+title: Camper Guide
 ---
 
-New Desert Outpost is a diverse collection of people from a variety of backgrounds and ages. Most of our campers come in through referrals, but we're always open to meeting new people who want to help us make our camp thrive.
-
-Want to connect? Find us on [facebook](https://www.facebook.com/newdesertoutpost)
 
 # This Is Us
 * We are a seasoned community of Burning Man explorers who are dedicated to inspiring our fellow wanderers - both new burners and those jaded by years of experience - to discover new parts of Black Rock City.
@@ -14,19 +11,6 @@ Want to connect? Find us on [facebook](https://www.facebook.com/newdesertoutpost
 * We are excited to bring new people into our community who like engaging in community and creating fun experiences for others. We don’t care if you’ve never created anything, so long as you come with a willingness to help
 * Although nobody in the camp is obliged to remain a unit and everybody takes their own burn experience, if you’re looking for a really solo burn with no accountability to anybody else, this isn’t the camp for you.
 * Because we’re young and small, the whole camp needs to share in running day to day logistics and interactive events.
-
-# Camping with us
-
-It's important that we create a community, not just a camp, an all campers play an important role in this.
-
-* **Work Shifts:** All campers are expected to do 3 work shifts over the course of the week to keep things running smoothly. Please show up on time, get shit done, and if you miss a shift please offer to pick up another.
-* **Camp dues:** The sexy amenities (see below) cost money, so we all pitch in to make sure it works. These dues are determined every year based on budget and how much carry-over we have from the previous year.
-* *Participation:* Come hang out with us and help make the camp events awesome.
-* **Camp tear down:** By the end of the week, everybody is tired and just wants to leave. But before we can, we have to tear down the camp, pack everything up and make sure there's absolutely no moop left behind. Everyone in camp is involved in tear down. If you're leaving before the weekend, talk to one of the camp leads to see what you can do to make their tear down easier.
-* **Departure:** Departure process for each person should be:
-  * Check lost and found for personal items
-  * Take 1 bag of trash and 1 bag of recycling per car
-  * Do a final thorough moop sweep of your tent area
 
 
 # Sexy Camp Amenities
