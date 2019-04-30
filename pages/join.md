@@ -4,7 +4,7 @@ title: Camping with us
 bigimg: /img/posts/2018/retro/camp.jpg
 ---
 
-New Desert Outpost is a diverse collection of people from a variety of backgrounds and ages. Most of our campers come in through referrals, but we're always open to meeting new people who want to help us make our camp thrive.
+New Desert Outpost is a diverse collection of people from a variety of backgrounds and ages. Most of our campers come in through referrals, but we're always open to meeting people to help our camp thrive.
 
 Want to connect? Find us on [facebook](https://www.facebook.com/newdesertoutpost)
 
@@ -25,17 +25,17 @@ It's important that we create a community -- not just a camp -- and all campers 
 
 # Camp Dues
 
-Camp dues are determined each year based on the expected cost of [camp amenities](/pages/camper_guide/#sexy-camp-amenities) and our interactivity for that year.
+Camp dues are determined each year based on the expected camp size, [camp amenities](/pages/camper_guide/#sexy-camp-amenities) and our interactivity for that year.
 
 For 2019:
-* Camp dues are $350 per camper.
-* Due within 10 days from acceptance into the camp to the budget lead (Shaon, this year)
-* Refundable within 30 days of the burn. After August 1st, only 50% will be refunded.
+* $350 per camper.
+* Due within 10 days from acceptance into the camp to the budget lead (Shaon, this year).
+* 100% refundable until July 1st, after which only 50% will be refunded.
 
 # Sponsorship
 
-Do you have some friends you'd like to invite to join the camp? Great, here's some things to know about the process:
+Do you know some people you'd like to invite to join the camp? Awesome!
 
-* As a sponsor, it's your responsibility to make sure they come to the burn prepared and show up for the camp shifts they've signed up for.
+* As a sponsor, it's your responsibility to make sure they come to the burn prepared and show up for the shifts they signed up for.
 * Invite your friend to a camp event (happy hour or build day) so they can get to know us. If they're not local, let one of the camp leads know and we'll work something out.
 * If it feels like a match from both sides, they're welcome to join the camp.

@@ -125,6 +125,7 @@ img {
   background-image: url({{ site.navbar-img }});
   background-attachment: fixed;
   {% endif %}
+  padding: 0 10px;
 }
 
 .navbar-custom .nav li {
@@ -774,7 +775,9 @@ td.gutter {
 }
 
 /* Fix .navbar-toggle */
-
+.navbar-default button.navbar-toggle .icon-bar {
+  background-color: {{ site.navbar-text-col }};
+}
 .navbar-default button.navbar-toggle:focus,
 .navbar-default button.navbar-toggle:hover {
   background-color: initial;
