@@ -1,6 +1,23 @@
 # New Desert Outpost
 The source for the website of the Burning Man Camp: [The New Desert Outpost](http://newdesertoutpost.com/)
 
+## Content
+
+Content for the site is broken down into two areas: Pages and Posts. All content is written in [markdown](https://www.markdownguide.org/basic-syntax/) with [jekyll front matter](https://jekyllrb.com/docs/front-matter/) at the top.
+
+### Posts
+These are blog posts and usually specifically about a place in time. For example announcements, talking about an upcoming or past burn, etc.
+
+Posts are added to the `_posts` directory with the file format: `<year>-<month>-<day>-<title>.md`.
+For example: `2018-08-01-burn-prep.md`
+
+### Pages
+A page is content which will be relevant from year-to-year. For example: [the new camper guide](http://newdesertoutpost.com/pages/camper_guide/).
+
+New pages are generally added to the `pages` directory and can be named whatever you want the URL to be.
+
+The name of the file determines the url. For example, `about.md` will be accessible from `/pages/about`.
+
 ## Development
 
 You'll need [Docker](https://www.docker.com/) to build the site locally.
