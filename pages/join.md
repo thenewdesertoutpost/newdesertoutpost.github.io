@@ -6,11 +6,13 @@ bigimg: /img/posts/2018/retro/camp.jpg
 
 New Desert Outpost is a diverse collection of people from a variety of backgrounds and ages. Most of our campers come in through referrals, but we're always open to meeting people to help our camp thrive.
 
+Learn more about us and the camp in our [Camper Guide](/pages/camper_guide/).
+
 Want to connect? Find us on [facebook](https://www.facebook.com/newdesertoutpost)
 
 # Camping with us
 
-It's important that we create a community -- not just a camp -- and all campers play an important role in this. Learn more about us, our camp and amenities in our [Camper Guide](/pages/camper_guide/).
+It's important that we create a community -- not just a camp -- and all campers play an important role in this.
 
 (updated in 2019 -- might change for future burns)
 
