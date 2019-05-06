@@ -10,7 +10,7 @@ Want to connect? Find us on [facebook](https://www.facebook.com/newdesertoutpost
 
 # Camping with us
 
-It's important that we create a community -- not just a camp -- and all campers play an important role in this.
+It's important that we create a community -- not just a camp -- and all campers play an important role in this. Learn more about us, our camp and amenities in our [Camper Guide](/pages/camper_guide/).
 
 (updated in 2019 -- might change for future burns)
 
