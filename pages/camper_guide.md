@@ -24,6 +24,8 @@ title: Camper Guide
 * **Shower:** For when you feel like being clean for, like, 5 min. Bring your own camping solar shower bag and conserve water when you shower. Please be warned, the shower stall is cursed--inevitably within an hour of someone showering, a dust storm kicks up.
 * **Power:** The camp has a gas powered generator that will be running in the evening for camp lighting. We’ll have an area to plug in anything that needs to be charged, but please be courteous and remove your stuff when it’s done charging so everybody can have at it. The generator is not guaranteed for personal use swamp coolers,AC units, hitachi personal massager, etc. If you want to use it for high-power personal items, please consult the power team lead first.
 
+Want to camp with us? [Learn more](/pages/join/).
+
 # At and Around the Camp
 * **Transportation to the playa:** Don’t have a vehicle pass to the burn? No biggie. Use the Burner Express.
 * **Camp Events:** The camp will be having a series of events during the week. If you’re not working the event, you don’t have to be there, but we’d love for you to join the fun. If you are working the event, please remember to always check ID.
@@ -56,7 +58,6 @@ Burning man is a beautiful hippy haven of peace, love and sting operations. Yes,
 * **Alcohol:** Anybody serving alcohol in any capacity to any non-camp member must see proof of legal drinking age for any people they are serving -- yes, even if they’re cute, yes, even if they’re like 80. ***Really fucking serious about this***. If you’re of legal drinking age, you can drink all over the damn place, but don’t be an asshole, and remember to bring some form of ID with you on your adventures--a drivers lic or a copy of it taped to your cup usually works well.
 * **Substances:**
   * Pot is legal in California! Pot is legal in Nevada! Pot is **not legal** federally, and Burning Man is on federal land. Do not consume or share pot in plain sight outside of the camp
-  * Do not under any circumstances solicit, offer, or make reference to personal consumption of any illegal substances to people you do not personally know. ***So. Damn. Serious***.
 * Additional Resources
   * Burning Man’s recommendations on how to relate to law enforcement.
   * Seriously watch this: https://www.youtube.com/watch?v=d-7o9xYp7eE
