@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Us
+bigimg: /img/group/2019.jpg
 ---
 
 We’re a group of seasoned Burning Man explorers who are dedicated to inspiring wanderers – both newly embarking on explorations and those jaded by years of experience – to discover parts of our fair city which are sometimes overlooked.
