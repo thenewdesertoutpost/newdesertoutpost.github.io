@@ -20,7 +20,7 @@ The name of the file determines the url. For example, `about.md` will be accessi
 
 ## Development
 
-You'll need [Docker](https://www.docker.com/) to build the site locally.
+You'll need [Docker](https://www.docker.com/) to build the site locally, specifically [Docker Desktop](https://docs.docker.com/desktop/).
 
 Build the docker image:
 
