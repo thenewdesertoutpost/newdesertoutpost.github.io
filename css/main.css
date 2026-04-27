@@ -685,6 +685,32 @@ table tr th :first-child,
 table tr td :first-child {
   margin-top: 0;
 }
+
+.dues-table {
+  border-collapse: collapse;
+  width: auto;
+  max-width: 420px;
+  margin: 1rem auto;
+  box-shadow: 0 0 0 1px #9b877b;
+}
+.dues-table th {
+  background: #9b877b;
+  color: #eeecee;  
+  font-weight: 600;
+}
+.dues-table th,
+.dues-table td {
+  border: 1px solid #9b877b;
+  padding: 0.8rem 1rem;
+}
+.dues-table tr,
+.dues-table tr:nth-child(even) {
+  background-color: #fffef5;
+}
+.dues-table td:last-child {
+  text-align: right;
+  white-space: nowrap;
+}
 table tr th :last-child,
 table tr td :last-child {
   margin-bottom: 0;
