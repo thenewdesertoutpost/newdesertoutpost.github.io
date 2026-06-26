@@ -74,4 +74,5 @@ No refunds offered after July 15.
     <a href="https://forms.gle/1cGgknzsocvrKgR28" class="cta-button">
         Get in Touch - Join the Outpost!
     </a>
+    <p style="margin-top: 12px; font-size: 0.95em; color: #555;">We are currently at capacity for the 2026 camp year; please get in touch to join our waiting list.</p>
 </div>
